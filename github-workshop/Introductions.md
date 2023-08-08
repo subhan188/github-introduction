@@ -17,8 +17,8 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 7. 
 8. Watermelon 🍉 (funny) 
 9. olives
-10. Olives/Pepperoni 
-11. Pineapple
+11. Olives/Pepperoni 
+12. Pineapple
 13. Tuna
 14. Bread
 15. Chicken
@@ -26,3 +26,4 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 17. Mushrooms
 18. Mozzarella 
 19. Spinach and ricotta
+20. Grilled chicken
