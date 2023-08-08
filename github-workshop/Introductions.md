@@ -34,7 +34,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 22. chicken
 23. 
 24. 
-25. 
+25. Chocolate ?
 26. Chicken / Margherita
 27. 
 28. 
