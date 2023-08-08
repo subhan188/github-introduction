@@ -17,14 +17,17 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 7. 
 8. Watermelon 🍉 (funny) - no
 9. olives
-10. Olives/Pepperoni 
-11. Pineapple
+11. Olives/Pepperoni 
+12. Pineapple
 13. Tuna
 14. Bread
 15. Chicken
 16. Orange 🍊 - bruh
 17. Mushrooms
 18. Mozzarella - nice
+19. Spinach and ricotta
+20. Grilled chicken
+18. Mozzarella 
 19. 
 20.  
 21. **Jam**
@@ -40,4 +43,3 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 31. chocolate
 32. 
 33. 
-
