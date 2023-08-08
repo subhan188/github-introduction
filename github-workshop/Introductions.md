@@ -29,7 +29,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 20.  
 21. 
 22. 
-23. Peppers
+23. 
 24. 
 25. 
 26. 
