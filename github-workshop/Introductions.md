@@ -31,7 +31,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 22. 
 23. 
 24. 
-25. 
+25. Chocolate (?)
 26. 
 27. 
 28. 
