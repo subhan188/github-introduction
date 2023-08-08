@@ -37,7 +37,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 28. 
 29. 
 30. 
-31. 
+31. chocolate
 32. 
 33. 
 
