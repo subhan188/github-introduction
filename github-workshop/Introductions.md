@@ -42,4 +42,21 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 30. 
 31. chocolate
 32. 
-33. 
+33.
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
