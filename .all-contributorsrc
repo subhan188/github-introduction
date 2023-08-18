@@ -53,7 +53,7 @@
         "review"
       ]
     },
-    {        
+    {
       "login": "EKaroune",
       "name": "Emma Karoune",
       "avatar_url": "https://avatars.githubusercontent.com/u/58147174?v=4",
@@ -62,6 +62,15 @@
         "talk",
         "review",
         "mentoring"
+      ]
+    },
+    {
+      "login": "GabinWK",
+      "name": "GabinWK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104582708?v=4",
+      "profile": "https://github.com/GabinWK",
+      "contributions": [
+        "talk"
       ]
     }
   ],
