@@ -44,7 +44,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 32. 
 33.
 34. 
-35. chips 🍟
+35. chips
 36. 
 37. 
 38. 
